@@ -1,0 +1,18 @@
+@import 'node_modules/bootstrap/scss/bootstrap';
+@import 'node_modules/bootstrap-vue/src/index';
+
+@import "themes/variables";
+@import "themes/font-face";
+
+@import "components/form-elements";
+@import "components/buttons";
+
+@import "pages/login";
+@import "pages/landing";
+@import "pages/home";
+@import "pages/post";
+@import "pages/create";
+
+
+@import "components/general";
+
